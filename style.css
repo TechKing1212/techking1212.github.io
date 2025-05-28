@@ -90,6 +90,17 @@ section {
   max-width: 1400px;
 }
 
+section#about {
+  display: block;
+  padding: 60px 20px;
+}
+
+section#about .content {
+  margin-bottom: 40px;
+  margin: 40px auto; /* centers the block horizontally */
+  max-width: 900px;
+}
+
 section .bg {
   position: absolute;
   top: 0; left: 0;
@@ -156,10 +167,9 @@ ul {
 footer {
   text-align: center;
   padding: 20px;
-  background-color: #f1f1f1;
+  background-color: #c0c0c0;
   color: #333;
   font-size: 0.9em;
-  font-family: 'Source Sans Pro', arial, sans-serif;
 }
 
 .divider {
