@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
     about: '2.jpg?auto=format&fit=crop&w=1350&q=80',
     services: '3.jpg?auto=format&fit=crop&w=1350&q=80',
     updates: '4.jpg?auto=format&fit=crop&w=1350&q=80', // new image
-    contact: '4.jpg?auto=format&fit=crop&w=1350&q=80'
+    contact: '5.jpg?auto=format&fit=crop&w=1350&q=80'
   };
 
 
