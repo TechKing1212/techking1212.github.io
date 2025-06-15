@@ -4,8 +4,10 @@ document.addEventListener("DOMContentLoaded", () => {
     home: '1.jpg?auto=format&fit=crop&w=1350&q=80',
     about: '2.jpg?auto=format&fit=crop&w=1350&q=80',
     services: '3.jpg?auto=format&fit=crop&w=1350&q=80',
+    updates: '4.jpg?auto=format&fit=crop&w=1350&q=80', // new image
     contact: '4.jpg?auto=format&fit=crop&w=1350&q=80'
   };
+
 
   Object.keys(sectionBackgrounds).forEach(id => {
     const section = document.getElementById(id);
