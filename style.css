@@ -180,6 +180,18 @@ footer {
   border-radius: 2px;
 }
 
+.contactAMJ {
+  font-size: 1.8em;
+  text-align: center;
+  font-weight: 700;
+}
+
+.contactCS {
+  font-size: 1.2em;
+  text-align: center;
+  font-weight: 400;
+}
+
 /* Fade-in Animation */
 .fade-in {
   opacity: 0;
